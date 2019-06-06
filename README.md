@@ -5,7 +5,7 @@ Sistema desenvolvido durante o curso de Desenvolvimento Web, no 5º semestre de 
 Este é um sistema voltado a mecânicas, empresas em gerais que trabalham com veículos.
 
 O sistema foi desenvolvido em PHP, utilizando o padrão MVC. Não foi utilizado nenhum framework, pois, a idéia minha foi explorar
-meus conhecimentos, e aproveitar ao máximo o PHP "puro".
+meus conhecimentos, e aproveitar ao máximo o PHP "puro". O front-end também foi desenvolvido do zero, sem reaporveitar nenhum código, apenas utilizando bootstrap 4.
 
 Módulos:
 
