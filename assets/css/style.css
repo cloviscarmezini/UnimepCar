@@ -1,0 +1,46 @@
+.nav-item-custom{
+  border-bottom: 1px solid #dee2e6;
+  padding: 15px 30px;
+  display: block;
+  color: rgba(0, 0, 0, 0.5);
+}
+.nav-item-custom:hover{
+  color: rgba(0, 0, 0, 0.7);
+  text-decoration: none;
+}
+.card-a:hover{
+  text-decoration: none;
+}
+.car-hover:hover{
+  box-shadow: 0 0 0px 2px rgb(113, 140, 153);
+}
+.bg-gray-1{
+  background-color: #eee;
+}
+.bg-blue{
+  background-color: #345F9A;
+}
+.nav-lateral{
+  height: calc(100vh - 3.5rem);
+}
+.table td{
+  padding: 10px 15px;
+  vertical-align: middle;
+}
+.table tbody tr{
+  border-bottom:1px solid #e9edf1;
+}
+.menu_active{
+  background-color: #eeeeee;
+  font-weight: 600;
+}
+@media (max-width: 575.98px) {
+  .nav-lateral{
+    height: 100% !important;
+  } 
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .nav-lateral{
+    height: 100% !important;
+  }
+}
