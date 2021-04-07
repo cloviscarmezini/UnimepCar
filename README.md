@@ -1,6 +1,6 @@
 # UnimepCar
 
-Sistema desenvolvido durante o curso de Desenvolvimento Web, no 5º semestre de Sistemas de Informação, como projeto final do curso.
+Sistema simples desenvolvido durante o curso de Desenvolvimento Web, no 5º semestre de Sistemas de Informação, como projeto final do curso.
 
 Este é um sistema voltado a mecânicas, empresas em gerais que trabalham com veículos.
 
